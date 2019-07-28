@@ -10,4 +10,3 @@
 - Send default message
 - Send "updates" anytime -> to recieve text updates
     for upcoming contests on CodeForces
-
