@@ -1,5 +1,5 @@
 ## Codeforces Contest Update Bot
-    Developed for Whatsapp, to recieve details about upcoming contests on CodeForces.
+    Developed for Whatsapp, to receive details about upcoming contests on CodeForces.
 
 ## Tech used
 - Nodejs
